@@ -1,0 +1,9 @@
+# .gitignore
+.idea/
+.vscode/
+data/
+*log
+*pyc
+*pyo
+rawdata/
+
